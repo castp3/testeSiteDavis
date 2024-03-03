@@ -1,0 +1,21 @@
+
+#titleNav {
+    font-size: 250%;
+}
+
+#pesquisa {
+    margin-right: auto;
+}
+#pesquisa .form-control{
+    font-size: 1.5rem;
+}
+#drop01{
+    margin-right: 46%;
+}
+#txtDrop{
+    font-size: 1.06rem;
+}
+#drop02{
+    margin-left: -10%;
+    margin-top: 1%;
+}
